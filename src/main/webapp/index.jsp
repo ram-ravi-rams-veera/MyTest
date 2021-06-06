@@ -1,7 +1,6 @@
 <html>
 <body>
 <h2>Hello World!</h2>
-<body> body bg color=red
-</body>
+<body> body bgcolor=red </body>
 </body>
 </html>
